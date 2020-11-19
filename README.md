@@ -1,16 +1,13 @@
-### Hi there 👋
+![Filipin.eu logo](https://filipin.eu/assets/filipin.png)
 
-<!--
-**zeljkofilipin/zeljkofilipin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi. I'm Željko Filipin. I am a software engineer in test. I work as a contractor at the [Wikimedia Foundation](https://wikimediafoundation.org/).
 
-Here are some ideas to get you started:
+# PGP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1DE8 1558 80C1 7434 9E65 1197 1F64 8D48 55B8 CF0E](https://filipin.eu/assets/pgp.asc)
+
+# Frequently asked questions
+
+How is Željko pronounced? Similar to zhel-ko or jell-ko.
+
+![Željko Filipin](https://filipin.eu/assets/zeljko_240_240.jpg)
