@@ -9,5 +9,3 @@ Hi. I'm Željko Filipin. I am a software engineer in test. I work as a contracto
 # Frequently asked questions
 
 How is Željko pronounced? Similar to zhel-ko or jell-ko.
-
-![Željko Filipin](https://filipin.eu/assets/zeljko_240_240.jpg)
